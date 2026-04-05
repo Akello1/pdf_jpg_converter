@@ -1,7 +1,6 @@
 import os
-import sys
 from PIL import Image
-import fitz  # PyMuPDF
+import fitz
 
 
 def pdf_to_jpg(pdf_path, jpg_path):
